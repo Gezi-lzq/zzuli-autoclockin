@@ -50,7 +50,7 @@ node index.js
 
 ### 方式二
 
-方便，利用 GitHub Actions 执行 Nodejs CI 定时任务，但需要细心和一定动手能力。
+很方便，利用 GitHub Actions 执行 Nodejs CI 定时任务，但需要细心和一定动手能力。
 
 1. fork 本仓库  
 建议在 fork 后，将自己的仓库设置为私有，以免个人信息公开可见。若不想设置私有，可在每次上传代码之前，清空json文件夹下所有文件的内容，均写为 `{}`。
